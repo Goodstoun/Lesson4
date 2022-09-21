@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+@font-face {
+	font-family: "larsseit" ;
+	src: url(../fonts/larsseit.woff2) format("woff2"), url(../fonts/larsseit.woff) format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: "larsseit" ;
+	src: url(../fonts/larsseit-medium.woff2) format("woff2"), url(../fonts/larsseit-medium.woff) format("woff");
+	font-display: swap;
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: "larsseit" ;
+	src: url(../fonts/larsseit-bold.woff2) format("woff2"), url(../fonts/larsseit-bold.woff) format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: "lato";
+	src: url(../fonts/lato-regular.woff2) format("woff2"), url(../fonts/lato-regular.woff) format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: "lato";
+	src: url(../fonts/lato-bold.woff2) format("woff2"), url(../fonts/lato-bold.woff) format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: "lato";
+	src: url(../fonts/lato-black.woff2) format("woff2"), url(../fonts/lato-black.woff) format("woff");
+	font-display: swap;
+	font-weight: 900;
+	font-style: normal;
+}
+h1{
+	font-family: "lato";
+	font-weight: 900;
+}
+h3{
+	font-family: "lato";
+	font-size: medium;
+}
+.grunt{
+	font-family: "larsseit";	
+}
+.plod{
+	font-family: "larsseit";
+	font-size: medium;
+}
+.posadka{
+	font-family: "lato";
+	font-size: larger;
+}
+.sort{
+	font-family: "Roboto";
+}
+#top{
+	color: coral;
+}
+#top h1{
+	color: black;
+}
+p.text{
+	color: brown;
+}
+.text{
+	color: darkorchid;
+}
+h3{
+	color: black;
+}
+.grunt .grunt-text p{
+	color: red;
+}
+.plod .plod-text p{
+	color: darkgoldenrod;
+}
+.posadka .posadka-text p{
+	color: plum;
+}
+
+p{
+	color: blue;
+}
